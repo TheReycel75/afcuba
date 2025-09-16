@@ -1,150 +1,160 @@
 [
-{
-        "id": "00001",
+    {
+        "id": "00045",
+        "title": "Lyrics for Poweramp",
+        "subtitle": "Proveedor de letras para canciones en Poweramp.",
+        "url": "https://play.google.com/store/apps/details?id=io.github.abhishekabhi789.lyricsforpoweramp",
+        "tags": ["Android", "Poweramp"]
+    },
+    {
+        "id": "00044",
+        "title": "MiCTS",
+        "subtitle": "Activa CircleToSearch en dispositivos con Android 9 a 15.",
+        "url": "https://github.com/parallelcc/MiCTS",
+        "tags": ["Android", "Google"]
+    },
+    {
+        "id": "00043",
         "title": "AppOps",
         "subtitle": "Administrador avanzado de permisos para aplicaciones.",
         "url": "https://github.com/RikkaApps/App-Ops-issue-tracker/",
-        "logo": "https://play-lh.googleusercontent.com/hhup-xpbmKiii_kmBw59OJN1DCxaHr0MAint6AI7UMaBVy7gkl_n8hNAG6PQt9ymlh0=w480-h960-rw",
         "tags": ["Android", "Shizuku"]
     },
     {
-        "id": "00002",
+        "id": "00042",
         "title": "Delta",
         "subtitle": "Configuración avanzada para el hotspot",
         "url": "https://github.com/supershadoe/delta",
-        "logo": "https://delta.shadoe.dev/_astro/logo.DvmM5BMW.svg",
         "tags": ["Android", "Shizuku", "Redes"]
     },
     {
-        "id": "00003",
+        "id": "00041",
         "title": "TapTap",
         "subtitle": "Activa una acción el dispositivo al tocar dos veces en la tapa de tu teléfono.",
         "url": "https://github.com/KieronQuinn/TapTap",
         "tags": ["Android", "Shizuku"]
     },
     {
-        "id": "00004",
+        "id": "00040",
         "title": "DarkQ",
         "subtitle": "Forza el modo oscuro en apps no compatibles.",
         "url": "https://github.com/KieronQuinn/DarQ",
         "tags": ["Android", "Shizuku", "Root"]
     },
     {
-        "id": "00005",
+        "id": "00039",
         "title": "Widgets Pro",
         "subtitle": "Widgets al estilo Nothing para tu pantalla de inicio.",
         "url": "https://github.com/preethamkmr3/WidgetsPro",
-        "logo": "https://cdn5.telesco.pe/file/GLOE78Mv9s-1y9f8FVcIpbrfeI4DUNKukagYuEiOAN0aoivZemHOes2weTeBgXbxD0Itd78NZJ4H0CXMOruNjn4jBI4-BEgZfoXIN5MnmUXbN9s-I7c65aDp9Va0FTdsh8e08hwyLoTzFJlVHEeBw5PkL5-NRwGws91SZE4oUFuanOdQt3JhBNyn6bN4IGDlUUOOdtXMvHrAtOHDEhtCiSQdtMF4JtYH21zUIX3lCbCwl7zXgvCsvm4FM8g0k7Cwd3kcfi1168_CDKt2t-jnP0QEk36a4ZZl0ZMpYoQP7aM_iYjmJH5tAYqgvwTHAOetEETzfYU_I3B9DVFk0ef1TQ.jpg",
         "tags": ["Android", "Shizuku", "Personalización"]
     },
     {
-        "id": "00006",
+        "id": "00038",
         "title": "AmbientMusicMod",
         "subtitle": "Reconoce la música que suena a tu alrededor.",
         "url": "https://github.com/KieronQuinn/AmbientMusicMod",
         "tags": ["Android", "Shizuku"]
     },
     {
-        "id": "00007",
+        "id": "00037",
         "title": "CarrierVanityName",
         "subtitle": "Cambia el nombre de la operadora telefónica que aparece en tu teléfono.",
         "url": "https://github.com/nullbytepl/CarrierVanityName",
         "tags": ["Android", "Shizuku"]
     },
     {
-        "id": "00008",
+        "id": "00036",
         "title": "Canta",
         "subtitle": "Permite desinstalar apps del sistema sin usar una terminal de comandos.",
         "url": "https://github.com/samolego/Canta",
-        "logo": "https://raw.githubusercontent.com/samolego/Canta/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
         "tags": ["Android", "Shizuku"]
     },
     {
-        "id": "00009",
+        "id": "00035",
         "title": "InstallerX Revived",
         "subtitle": "Instalador de aplicaciones con opciones avanzadas.",
         "url": "https://github.com/wxxsfxyzm/InstallerX-Revived",
         "tags": ["Android", "Shizuku", "Root"]
     },
     {
-        "id": "00010",
+        "id": "00034",
         "title": "WA Enhancer",
         "subtitle": "Modificaciones para WhatApp.",
         "url": "https://github.com/Dev4Mod/WaEnhancer",
         "tags": ["Android", "Root", "WhatsApp"]
     },
     {
-        "id": "00011",
+        "id": "00033",
         "title": "Iconify",
         "subtitle": "Personalización avanzada para dispositivos AOSP.",
         "url": "https://github.com/Mahmud0808/Iconify",
         "tags": ["Android", "Root", "Personalización"]
     },
     {
-        "id": "00012",
+        "id": "00032",
         "title": "Lawnchair",
         "subtitle": "Launcher avanzado y minimalista.",
         "url": "https://github.com/LawnchairLauncher/Lawnchair",
         "tags": ["Android"]
     },
     {
-        "id": "00013",
+        "id": "00031",
         "title": "Shizuku",
         "subtitle": "Permite que aplicacionesde terceros puedan usar funciones ADB.",
         "url": "https://github.com/RikkaApps/Shizuku",
         "tags": ["Android", "Shizuku"]
     },
     {
-        "id": "00014",
+        "id": "00030",
         "title": "Universal Android Debloater",
         "subtitle": "Listado de apps del sistema que se pueden desinstalar sin riesgos.",
         "url": "https://github.com/0x192/universal-android-debloater",
         "tags": ["Android", "Lista"]
     },
     {
-        "id": "00015",
+        "id": "00029",
         "title": "WebSite2APK Builder",
         "subtitle": "Generador de APKs a partir de una página web.",
         "url": "https://github.com/praveshagrawal/Website-2-APK-Builder",
         "tags": ["PC", "Android"]
     },
     {
-        "id": "00016",
+        "id": "00028",
         "title": "Data Monitor",
         "subtitle": "Control y análisis del gasto de datos móviles y WiFi.",
         "url": "https://github.com/itsdrnoob/DataMonitor",
         "tags": ["Android"]
     },
     {
-        "id": "00017",
+        "id": "00027",
         "title": "LocalSend",
         "subtitle": "Transferencia de archivos por red local.",
         "url": "https://github.com/localsend/localsend",
         "tags": ["Android", "Redes"]
     },
     {
-        "id": "00018",
+        "id": "00026",
         "title": "Scrcpy",
         "subtitle": "Mirror de audio y video del teléfono en PC.",
         "url": "https://github.com/Genymobile/scrcpy/",
         "tags": ["PC", "Android"]
     },
     {
-        "id": "00019",
+        "id": "00025",
         "title": "NewPipe",
         "subtitle": "Cliente no oficial de Youtube con opciones Premium.",
         "url": "https://github.com/TeamNewPipe/NewPipe",
         "tags": ["Android", "Youtube"]
     },
     {
-        "id": "00020",
+        "id": "00024",
         "title": "Tabler Icons",
         "subtitle": "Pack de iconos minimalistas.",
         "url": "https://github.com/tabler/tabler-icons",
         "tags": ["Personalización"]
     },
     {
-        "id": "00021",
+        "id": "00023",
         "title": "Magisk",
         "subtitle": "Gestor de root",
         "url": "https://github.com/topjohnwu/Magisk",
@@ -158,147 +168,147 @@
         "tags": ["Android", "Shizuku"]
     },
     {
-        "id": "00023",
+        "id": "00021",
         "title": "Simple Battery Notifier",
         "subtitle": "Muestra una notificación sobre detalles de la batería.",
         "url": "https://github.com/almothafar/SimpleBatteryNotifier",
         "tags": ["Android"]
     },
     {
-        "id": "00024",
+        "id": "00020",
         "title": "Wiki TrebleDroid",
         "subtitle": "Lista clasificada de GSI",
         "url": "https://github.com/TrebleDroid/treble_experimentations/releases",
         "tags": ["Android"]
     },
     {
-        "id": "00025",
+        "id": "00019",
         "title": "Fossify",
         "subtitle": "Gestor de SMS",
         "url": "https://github.com/FossifyOrg/Messages",
         "tags": ["Android"]
     },
     {
-        "id": "00026",
+        "id": "00018",
         "title": "PlayIntegrityFix",
         "subtitle": "Otorga la certificación de Play Store.",
         "url": "https://github.com/chiteroman/PlayIntegrityFix",
         "tags": ["Android", "Root"]
     },
     {
-        "id": "00027",
+        "id": "00017",
         "title": "Android Modification Library de Ryuki",
         "subtitle": "Modulo Magisk para modificaciones de audio.",
         "url": "https://github.com/reiryuki/Audio-Modification-Library-Ryuki-Mod-Magisk-Module",
         "tags": ["Android", "Root"]
     },
     {
-        "id": "00028",
+        "id": "00016",
         "title": "Plus Messenger",
         "subtitle": "Código fuente del cliente no oficial de Telegram.",
         "url": "https://github.com/rafalense/Plus-Messenger",
         "tags": ["Android"]
     },
     {
-        "id": "00029",
+        "id": "00015",
         "title": "FlorisBoard",
         "subtitle": "Teclado de código abierto.",
         "url": "https://github.com/florisboard/florisboard",
         "tags": ["Android"]
     },
     {
-        "id": "00030",
+        "id": "00014",
         "title": "PixelExpert",
         "subtitle": "Modificaciones avanzadas para AOSP.",
         "url": "https://github.com/siavash79/PixelXpert",
         "tags": ["Android", "Root"]
     },
     {
-        "id": "00031",
+        "id": "00013",
         "title": "ZRAM Swap Configurator",
         "subtitle": "Permite expandir la ZRAM",
         "url": "https://github.com/reiryuki/ZRAM-Swap-Configurator-Magisk-Module",
         "tags": ["Android", "Root"]
     },
     {
-        "id": "00032",
+        "id": "00012",
         "title": "File Navigator",
         "subtitle": "Ordena tus archivos descargados en carpetas personalizadas.",
         "url": "https://github.com/w2sv/FileNavigator",
         "tags": ["Android"]
     },
     {
-        "id": "00033",
+        "id": "00011",
         "title": "EnforceDoze",
         "subtitle": "Restringe aún más la actividad en tu teléfono cuando está apagado.",
         "url": "https://github.com/farfromrefug/EnforceDoze",
         "tags": ["Android", "Root"]
     },
     {
-        "id": "00034",
+        "id": "00010",
         "title": "BCR",
         "subtitle": "Permite grabar llamadas.",
         "url": "https://github.com/chenxiaolong/BCR",
         "tags": ["Android", "Root"]
     },
     {
-        "id": "00035",
+        "id": "00009",
         "title": "Network Usage",
         "subtitle": "Control del uso de datos móviles y WiFi.",
         "url": "https://github.com/JahidHasanCO/NetworkUsage",
         "tags": ["Android", "Redes"]
     },
     {
-        "id": "00036",
+        "id": "00008",
         "title": "Obtainium",
         "subtitle": "Recibe alertas de notificaciones de repositorios de Github.",
         "url": "https://github.com/ImranR98/Obtainium",
         "tags": ["Android"]
     },
     {
-        "id": "00037",
+        "id": "00007",
         "title": "Via",
         "subtitle": "Simple y potente navegador.",
         "url": "https://github.com/tuyafeng/Via",
         "tags": ["Android"]
     },
     {
-        "id": "00038",
+        "id": "00006",
         "title": "Comatose",
         "subtitle": "Restringe la actividad de tu teléfono mientras esta apagado.",
         "url": "https://github.com/tytydraco/Comatose",
         "tags": ["Android", "Root"]
     },
     {
-        "id": "00039",
+        "id": "00005",
         "title": "Androidacy Module Manager",
         "subtitle": "Gestor de paquetes de Magisk",
         "url": "https://github.com/Androidacy/AndroidacyModuleManager",
         "tags": ["Android", "Root"]
     },
     {
-        "id": "00040",
+        "id": "00004",
         "title": "Rboard Theme Manager",
         "subtitle": "Personalización para el teclado GBoard.",
         "url": "https://github.com/DerTyp7214/RboardThemeManagerV3",
         "tags": ["Android", "GBoard", "Personalización"]
     },
     {
-        "id": "00041",
+        "id": "00003",
         "title": "Taskbar",
         "subtitle": "Barra de tareas para Android.",
         "url": "https://github.com/farmerbb/Taskbar",
         "tags": ["Android"]
     },
     {
-        "id": "00042",
+        "id": "00002",
         "title": "Circle To Search",
         "subtitle": "Habilita la característica en Google App.",
         "url": "https://github.com/fillwithjoy1/circle-to-search",
         "tags": ["Android", "Root"]
     },
     {
-        "id": "00043",
+        "id": "00001",
         "title": "Oled2Lcd",
         "subtitle": "Colores más saturados.",
         "url": "https://github.com/symbuzzer/oled2lcd",
