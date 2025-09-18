@@ -1,10 +1,31 @@
-[
+[{
+    "id": "00029",
+    "title": "iOS 26 ya está aquí: estas son las siete novedades más importantes que puedes probar ya en tu iPhone",
+    "poster": "https://images.weserv.nl/?url=https%3A%2F%2Fi.blogs.es%2Fff62e1%2F1366_2000%2F840_560.jpeg&output=jpg&bg=white&default=te.legra.ph/file/47739019e1308864fdca0.png",
+    "author": "Xataka",
+    "published_date": "2025-09-18",
+    "tags": [
+        "Posts",
+        "iOS"
+    ]
+},
+    {
+        "id": "00028",
+        "title": "Nova Launcher cierra: es el fin de una era",
+        "poster": "https://images.weserv.nl/?url=https%3A%2F%2Fwww.proandroid.com%2Fwp-content%2Fuploads%2F2025%2F09%2Fnova-launcher-cierra-dice-adios.webp&output=jpg&bg=white&default=te.legra.ph/file/47739019e1308864fdca0.png",
+        "author": "ProAndroid",
+        "published_date": "2025-09-15",
+        "tags": [
+            "Posts",
+            "Aplicaciones",
+            "Android"
+        ]
+    },
     {
         "id": "00027",
         "title": "¿Qué pasará con los APK? No, no será lo que te imaginas",
         "poster": "",
         "author": "Carl",
-        "email": "",
         "published_date": "2025-09-14",
         "tags": [
             "Originales",
@@ -16,7 +37,6 @@
         "title": "¿En realidad la IA te quitará tu trabajo?",
         "poster": "",
         "author": "Reycel",
-        "email": "reycelborregov@gmail.com",
         "published_date": "2025-09-12",
         "tags": [
             "Originales",
@@ -28,7 +48,6 @@
         "title": "¿Realmente se aprende inglés en Duolingo?",
         "poster": "",
         "author": "Reycel",
-        "email": "reycelborregov@gmail.com",
         "published_date": "2025-09-07",
         "tags": [
             "Originales",
@@ -40,7 +59,6 @@
         "title": "Esta app fue la más popular cuando no teníamos conexión",
         "poster": "",
         "author": "Reycel",
-        "email": "reycelborregov@gmail.com",
         "published_date": "2025-09-03",
         "tags": [
             "Originales",
@@ -52,7 +70,6 @@
         "title": "Este pequeño navegador humilla a Chrome",
         "poster": "",
         "author": "Reycel",
-        "email": "reycelborregov@gmail.com",
         "published_date": "2025-08-31",
         "tags": [
             "Originales",
@@ -65,7 +82,6 @@
         "title": "Dejé de usar Chrome por este motivo",
         "poster": "",
         "author": "Reycel",
-        "email": "reycelborregov@gmail.com",
         "published_date": "2025-08-24",
         "tags": [
             "Originales",
@@ -78,7 +94,6 @@
         "title": "Generar una contraseña segura es mucho más fácil de recordar de lo que crees.",
         "poster": "",
         "author": "Reycel",
-        "email": "reycelborregov@gmail.com",
         "published_date": "2025-08-15",
         "tags": [
             "Originales",
@@ -91,7 +106,6 @@
         "title": "Reemplacé la app de Telegram y no me arrepiento.",
         "poster": "",
         "author": "Reycel",
-        "email": "reycelborregov@gmail.com",
         "published_date": "2025-08-20",
         "tags": [
             "Originales",
@@ -104,7 +118,6 @@
         "title": "Mi Experiencia con Tiny11",
         "poster": "",
         "author": "Carl",
-        "email": "",
         "published_date": "2025-08-17",
         "tags": [
             "Originales",
@@ -117,7 +130,6 @@
         "title": "Lo que traerá Telegram me encanta pero también me preocupa.",
         "poster": "",
         "author": "Reycel",
-        "email": "reycelborregov@gmail.com",
         "published_date": "2025-08-15",
         "tags": [
             "Originales",
@@ -130,7 +142,6 @@
         "title": "El peligro de compartir tu vida en redes sociales.",
         "poster": "",
         "author": "Reycel",
-        "email": "reycelborregov@gmail.com",
         "published_date": "2025-08-12",
         "tags": [
             "Originales",
@@ -143,7 +154,6 @@
         "title": "El experimento de Skinner.",
         "poster": "",
         "author": "Reycel",
-        "email": "reycelborregov@gmail.com",
         "published_date": "2025-08-09",
         "tags": [
             "Originales",
@@ -156,7 +166,6 @@
         "title": "ETECSA hizo esto sin que te des cuenta.",
         "poster": "",
         "author": "Reycel",
-        "email": "reycelborregov@gmail.com",
         "published_date": "2025-08-06",
         "tags": [
             "Originales",
@@ -169,7 +178,6 @@
         "title": "La fábula del ingeniero y el tornillo.",
         "poster": "",
         "author": "Reycel",
-        "email": "reycelborregov@gmail.com",
         "published_date": "2025-08-04",
         "tags": [
             "Originales",
@@ -181,7 +189,6 @@
         "title": "No te confundas: esto es lo que más le hace daño a tu batería.",
         "poster": "",
         "author": "Reycel",
-        "email": "reycelborregov@gmail.com",
         "published_date": "2025-08-02",
         "tags": [
             "Originales",
@@ -189,24 +196,22 @@
         ]
     },
     {
-    "id": "00012",
-    "title": "¡Aprende a tomar buenas astrofotografías!",
-    "poster": "",
-    "author": "Carl",
-    "email": "",
-    "published_date": "2025-07-31",
-    "tags": [
-        "Originales",
-        "Tips",
-        "Fotografía"
-    ]
+        "id": "00012",
+        "title": "¡Aprende a tomar buenas astrofotografías!",
+        "poster": "",
+        "author": "Carl",
+        "published_date": "2025-07-31",
+        "tags": [
+            "Originales",
+            "Tips",
+            "Fotografía"
+        ]
     },
     {
         "id": "00011",
         "title": "Cuidado sí te envían un teléfono así desde el EXTERIOR",
         "poster": "",
         "author": "Reycel",
-        "email": "reycelborregov@gmail.com",
         "published_date": "2025-07-29",
         "tags": [
             "Originales",
@@ -219,7 +224,6 @@
         "title": "Esta aplicación es MUY PELIGROSA",
         "poster": "",
         "author": "Reycel",
-        "email": "reycelborregov@gmail.com",
         "published_date": "2025-07-23",
         "tags": [
             "Originales",
@@ -232,7 +236,6 @@
         "title": "Por qué no debes INSTALAR UN ANTIVIRUS en Android",
         "poster": "",
         "author": "Reycel",
-        "email": "reycelborregov@gmail.com",
         "published_date": "2025-07-19",
         "tags": [
             "Originales",
@@ -245,7 +248,6 @@
         "title": "Si haces esto te van a estafar",
         "poster": "",
         "author": "Reycel",
-        "email": "reycelborregov@gmail.com",
         "published_date": "2025-07-17",
         "tags": [
             "Originales",
@@ -259,7 +261,6 @@
         "title": "7 Sitios web cubanos para gastar los 300MB nacionales",
         "poster": "",
         "author": "Reycel",
-        "email": "reycelborregov@gmail.com",
         "published_date": "2025-07-15",
         "tags": [
             "Originales",
@@ -272,7 +273,6 @@
         "title": "⚠️ ¡OJO CON ESTO!",
         "poster": "",
         "author": "Reycel",
-        "email": "reycelborregov@gmail.com",
         "published_date": "2025-07-12",
         "tags": [
             "Originales",
@@ -286,7 +286,6 @@
         "title": "¿Por qué es necesaria una tarjeta USIM para conectarse a la red 4G?",
         "poster": "",
         "author": "Reycel",
-        "email": "reycelborregov@gmail.com",
         "published_date": "2025-06-30",
         "tags": [
             "Originales",
@@ -300,7 +299,6 @@
         "poster": "https://images.weserv.nl/?url=https%3A%2F%2Fes.digitaltrends.com%2Fwp-content%2Fuploads%2F2024%2F10%2FPantalla-azul-Windows.jpeg%3Fresize%3D1200%252C630%26p%3D1&output=jpg&bg=white&default=te.legra.ph/file/47739019e1308864fdca0.png",
         "source": "https://es.digitaltrends.com/computadoras/la-infame-pantalla-azul-de-la-muerte-de-windows-esta-cambiando/",
         "author": "DigitalTrends",
-        "email": "",
         "published_date": "2025-07-13",
         "tags": [
             "Noticias",
@@ -313,7 +311,6 @@
         "poster": "https://images.weserv.nl/?url=https%3A%2F%2Fi.blogs.es%2F59c6a8%2Factu-hyperos-22%2F840_560.jpeg&output=jpg&bg=white&default=te.legra.ph/file/47739019e1308864fdca0.png",
         "source": "https://www.xatakandroid.com/sistema-operativo/nuevo-hyperos-2-2-llega-a-30-dispositivos-pocos-dias-tuyo-esta-lista-esto-que-cambia",
         "author": "Xataka",
-        "email": "",
         "published_date": "2025-07-13",
         "tags": [
             "Noticias",
@@ -327,7 +324,6 @@
         "poster": "https://images.weserv.nl/?url=https%3A%2F%2Felmagallanico.com%2Fwp-content%2Fuploads%2F2025%2F02%2F2025-02-08-NOTIFICACIONES-2-1000x600.jpg&output=jpg&bg=white&default=te.legra.ph/file/47739019e1308864fdca0.png",
         "source": "https://elmagallanico.com/2025/02/la-evolucion-de-los-sistemas-de-notificacion-en-android",
         "author": "El Magallanico",
-        "email": "",
         "published_date": "2025-07-13",
         "tags": [
             "Posts",
@@ -340,7 +336,6 @@
         "poster": "https://images.weserv.nl/?url=https%3A%2F%2Fwww.movilzona.es%2Fapp%2Fuploads-movilzona.es%2F2025%2F04%2FXiaomi-Redmi-Note-12-con-libro.jpg&output=jpg&bg=white&default=te.legra.ph/file/47739019e1308864fdca0.png",
         "source": "https://www.movilzona.es/noticias/power-on/trucos-desconectar-verano-telefono-movil/",
         "author": "MovilZona",
-        "email": "",
         "published_date": "2025-07-13",
         "tags": [
             "Posts",
