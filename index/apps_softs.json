@@ -1,5 +1,110 @@
 [
     {
+        "id": "00060",
+        "title": "YMusic",
+        "subtitle": "Reproductor de música de Youtube gratuito.",
+        "url": "https://ymusic.io/",
+        "tags": ["Android"]
+    },
+    {
+        "id": "00059",
+        "title": "Termux",
+        "subtitle": "Consola para Android",
+        "url": "https://play.google.com/store/apps/details?id=com.termux",
+        "tags": ["Android"]
+    },
+    {
+        "id": "00058",
+        "title": "SwiftBackup",
+        "subtitle": "Copias de seguridad completas.",
+        "url": "https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup",
+        "tags": ["Android", "Root"]
+    },
+    {
+        "id": "00057",
+        "title": "Solid Explorer",
+        "subtitle": "Explorador de archivos avanzado.",
+        "url": "https://play.google.com/store/apps/details?id=pl.solidexplorer2",
+        "tags": ["Android"]
+    },
+    {
+        "id": "00056",
+        "title": "SD Maid SE",
+        "subtitle": "Limpiador de archivos del sistema.",
+        "url": "https://play.google.com/store/apps/details?id=eu.darken.sdmse",
+        "tags": ["Android"]
+    },
+    {
+        "id": "00055",
+        "title": "ProtonVPN",
+        "subtitle": "VPN gratuita.",
+        "url": "https://play.google.com/store/apps/details?id=ch.protonvpn.android",
+        "tags": ["Android"]
+    },
+    {
+        "id": "00054",
+        "title": "Poweramp",
+        "subtitle": "Reproductor de música avanzado.",
+        "url": "https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer",
+        "tags": ["Android"]
+    },
+    {
+        "id": "00053",
+        "title": "Pixels",
+        "subtitle": "Cambia la resolución de tu telélfono.",
+        "url": "https://play.google.com/store/apps/details?id=com.tribalfs.pixels",
+        "tags": ["Android", "Shizuku", "Root"]
+    },
+    {
+        "id": "00052",
+        "title": "Pdf Reader",
+        "subtitle": "Lector avanzado de pdf y libros digitales.",
+        "url": "https://play.google.com/store/apps/details?id=pdf.pdf.reader",
+        "tags": ["Android"]
+    },
+    {
+        "id": "00051",
+        "title": "MAPS.ME",
+        "subtitle": "Mapa de navegación.",
+        "url": "https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro",
+        "tags": ["Android"]
+    },
+    {
+        "id": "00050",
+        "title": "K9-Mail",
+        "subtitle": "Cliente de correo de codigo abierto con características avanzadas.",
+        "url": "https://play.google.com/store/apps/details?id=com.fsck.k9",
+        "tags": ["Android"]
+    },
+    {
+        "id": "00049",
+        "title": "HyperDroid",
+        "subtitle": "Experiencia del escritorio de Windows en Android.",
+        "url": "https://play.google.com/store/apps/details?id=com.binary.hyperdroid",
+        "tags": ["Android", "Windows"]
+    },
+    {
+        "id": "00048",
+        "title": "HabitKit",
+        "subtitle": "Administrador de hábitos.",
+        "url": "https://play.google.com/store/apps/details?id=com.roehl.habitkit",
+        "tags": ["Android"]
+    },
+    {
+        "id": "00047",
+        "title": "DevCheck",
+        "subtitle": "Información detallada del software y hardware de tu dispositivo.",
+        "url": "https://play.google.com/store/apps/details?id=flar2.devcheck",
+        "tags": ["Android"]
+    },
+    {
+        "id": "00046",
+        "title": "Microsoft Copilot",
+        "subtitle": "Asistente IA sin VPN para los cubanos.",
+        "url": "https://play.google.com/store/apps/details?id=com.microsoft.copilot",
+        "tags": ["Android", "IA"]
+    },
+    {
         "id": "00045",
         "title": "Lyrics for Poweramp",
         "subtitle": "Proveedor de letras para canciones en Poweramp.",
